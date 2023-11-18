@@ -1,6 +1,5 @@
 {
     "Sticker": {
-        "<img src=\"https://expression.qjqq.cn/1/650c3f7635526.webp\" style=\"width: 30px;top: 4px;position: relative;\" title=\"bochi\">": {
             "type": "image",
             "container": [
                 {
@@ -72,6 +71,5 @@
                     "text": "消沉_08"
                 }
             ]
-        }
     }
 }
